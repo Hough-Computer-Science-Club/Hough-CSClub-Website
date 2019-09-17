@@ -3,7 +3,7 @@ Hough High School Computer Science Club group project
 
 I am structuring the project based on recommended skill level, so any member of the computer science club, no matter the skill level, can help contribute to the projects.
 
-##TODO (Level 1)
+## TODO (Level 1)
 >For those who want to contribute with basic HTML and CSS knowledge
 
 1. Create develop the structure of the website with HTML (index.html)
@@ -15,7 +15,7 @@ I am structuring the project based on recommended skill level, so any member of 
  - Add styling to the website
  - Add any animations
 
-##TODO (Level 2)
+## TODO (Level 2)
 >For those looking to add to the website with modern coding
 
 1. Create interactivity with JavaScript (script.js)
@@ -29,7 +29,7 @@ I am structuring the project based on recommended skill level, so any member of 
 3. Improve on the structure of the website
  - Add meaningful additions to the HTML to create a more readable and easy to develop for website
 
-##TODO (Level 0)
+## TODO (Level 0)
 >This if for any non coders looking to contribute to the sites content
 
 1. Research
