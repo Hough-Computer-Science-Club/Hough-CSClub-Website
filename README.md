@@ -3,6 +3,9 @@ Hough High School Computer Science Club group project
 
 I am structuring the project based on recommended skill level, so any member of the computer science club, no matter the skill level, can help contribute to the projects.
 
+## The Do's and Dont's
+For this first project we want to keep it accessible to people of all levels, there will be time later in the year for you to show off your technical prowess. For this reason we will be sticking to straight HTML and CSS, no front end frameworks or CSS frameworks. This is to make sure people of all skills can contribute. If you want to add a JavaScript library like J Query you can but I will be closely monitoring what you add to make sure nothing malicious gets through.
+
 ## TODO (Level 1)
 >For those who want to contribute with basic HTML and CSS knowledge
 
