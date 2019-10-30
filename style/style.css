@@ -1,1 +1,35 @@
+body {
+    font-family: Menlo, monospace, serif;
+    background: #041E42;
+    color: #FFC72C;
+}
 
+h1 {
+    color: #AEE2C7;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-top: -1em;
+}
+
+p {
+    color: #00843D;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+p:hover {
+    color: red;
+    animation: textcolor 3s infinite linear;
+    cursor: default;
+}
+
+@keyframes textcolor {
+    25%    {color: yellow;}
+    50%   {color: cyan;}
+    75%   {color: lime;}
+    100%  {color: red;}
+}
