@@ -1,0 +1,44 @@
+.calbox {
+    max-width: 700px;
+    min-width: 700px;
+    max-height: 400px;
+    min-height: 400px;
+    background-color: #FFEAB2;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 8px;
+    padding: 1em;
+    display: table;
+}
+#calbox-caption {
+    display: table-caption;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#calbox-header {
+    display: table-header-group;
+    background-color: gray;
+    font-weight: bold;
+    font-size: 25px;
+}
+#calbox-header-cell {
+    display: table-cell;
+    padding: 10px;
+    text-align: justify;
+    
+    border: 1px solid #00843D;
+}
+#calbox-body {
+    display: table-row-group;
+    border: 1px solid #00843D;
+}
+#calbox-row {
+    display: table-row;
+    border: 1px solid #00843D;
+}
+#calbox-body-cell {
+    display: table-cell;
+    border: 1px solid #00843D;
+    
+}
