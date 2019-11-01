@@ -1,1 +1,55 @@
+body {
+    font-family: Menlo, monospace, serif;
+    background: #041E42;
+    color: #FFC72C;
+}
 
+.titles {
+    text-align: center;
+}
+.titles h1 {
+    color: #AEE2C7;
+}
+.titles h3 {
+    color: #FFC72C; 
+    margin-top: -1em;
+}
+
+.topnav {
+    display: table;
+    margin: auto;
+}
+.topnav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.topnav li {
+    float: left;
+    background-color: #FFEAB2;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.topnav a {
+    color: #00843D;
+    text-decoration: none;
+}
+
+#tagline {
+    color: #00843D;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    cursor: default;
+}
+#tagline:hover {
+    color: red;
+    animation: textcolor 3s infinite linear;
+}
+@keyframes textcolor {
+    25%    {color: yellow;}
+    50%   {color: cyan;}
+    75%   {color: lime;}
+    100%  {color: red;}
+}
